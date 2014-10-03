@@ -9,4 +9,5 @@ Hobby: 	Golf
 
 Programming Backgroung:
 Experience in C++/1 year....thats about it.
-	
+	Favorite Program: 
+		Character Combat Game in CS 162

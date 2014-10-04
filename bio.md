@@ -7,7 +7,11 @@ I have torn my ACL twice in the same knee.
 Hobby: 	Golf 
 		Playing with my dogs
 		Going to sporting events 
-		Watching my favorite sports teams
+		Watching my favorite sports teams:
+			St Louis Cardinals
+			St Louis Blues
+			St Louis Rams
+			Mizzou Tigers
 
 Programming Backgroung:
 Experience in C++/1 year....thats about it.
